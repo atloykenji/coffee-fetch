@@ -122,7 +122,7 @@ ${bb}    ) )     ${bo}%s
 ${bb}   ( (      ${bo}%s
 ${bg} ........   ${bo}%s
 ${bg} |      |]  ${bo}%s
-${bg} \ UwU  /   ${bo}%s
+${bg} \      /   ${bo}%s
 ${bg}  '____'    ${bo}%s
              %s
 " "$(getUser)" "$(getDistro)" "$(getKernel)" "$(getWM)" "$(getPackages)" "$(getUptime)" "$(getPalette)"
